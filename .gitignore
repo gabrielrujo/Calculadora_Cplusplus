@@ -1,0 +1,15 @@
+# Arquivos de sistema (como o do macOS)
+.DS_Store
+
+# Pasta de build/output
+output/
+build/
+bin/
+
+# Arquivos de objeto intermediários
+*.o
+
+# Executáveis comuns (opcional)
+*.exe
+*.out
+a.out
